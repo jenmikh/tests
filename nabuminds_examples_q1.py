@@ -48,15 +48,3 @@ print("Most profitable acquisition channel, brand, and market combination (CLV):
 print("Most profitable acquisition channel, brand, and market combination (ARPU):", most_profitable_combination_arpu)
 print(clv_by_channel_brand_market)
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
