@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[36]:
-
-
 import pandas as pd
 import numpy as np
 
@@ -30,10 +27,6 @@ data = {
 
 df = pd.DataFrame(data)
 print(df)
-
-
-# In[38]:
-
 
 # Question_1
 # Calculate CLV and ARPU by acquisition channel, brand, and market
